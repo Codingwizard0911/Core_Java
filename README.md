@@ -15,5 +15,4 @@ Each program is written and tested to strengthen the understanding of Java funda
   - VS Code
   - Git & GitHub
 
-🤝 Contributions
-  This is a personal learning repo, but suggestions are welcome!
+🤝 Contributions <^>This is a personal learning repo, but suggestions are welcome!
