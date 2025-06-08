@@ -1,0 +1,126 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "FactorialWithoutMedian",
+      "request": "launch",
+      "mainClass": "Practice.FactorialWithoutMedian",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "FactorialWithoutMEdian",
+      "request": "launch",
+      "mainClass": "Practice.FactorialWithoutMEdian",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Generics.Main",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "AnonymousClass.Main",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Areaoftriangle",
+      "request": "launch",
+      "mainClass": "Areaoftriangle",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Ifstatement",
+      "request": "launch",
+      "mainClass": "Ifstatement",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Input",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "MadLibsgame",
+      "request": "launch",
+      "mainClass": "MadLibsgame",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Operators",
+      "request": "launch",
+      "mainClass": "Operators",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Pizza",
+      "request": "launch",
+      "mainClass": "Pizza",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "Shoppingcart",
+      "request": "launch",
+      "mainClass": "Shoppingcart",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "variable_practice",
+      "request": "launch",
+      "mainClass": "variable_practice",
+      "projectName": "Java_2a17e0cd"
+    },
+    {
+      "type": "java",
+      "name": "variables",
+      "request": "launch",
+      "mainClass": "variables",
+      "projectName": "Java_2a17e0cd"
+    }
+  ]
+}
